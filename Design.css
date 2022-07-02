@@ -1,0 +1,58 @@
+body {
+    width: 100%;
+    height: 100%;
+  }
+  body {
+    background-image: url('/images/15-CSS-Animated-Backgrounds-Pintire.gif');
+  }
+
+/* Add a black background color to the top navigation */
+.topnav {
+    
+    height: 70px;
+    width: 45%;
+    
+    overflow: hidden;
+    margin: auto;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: center;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .middletext {
+
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+    padding-left: 30%;
+    padding-top: 10%;
+    font-size: 250%;
+
+  }
+
+  h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #f4f8d8;
+    font-weight: 600;
+    padding-left: 10%;
+    padding-top: 1%;
+    font-size: 2cm;
+
+  }
+
+ .middlebutton {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+    padding-left: 45%;
+    padding-top: 10%;
+    font-size: 200%;
+    color: #f4f8d8;
+  }
+  
+  
+  
